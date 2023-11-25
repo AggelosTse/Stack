@@ -1,4 +1,4 @@
-# stack-implementation
+# stack eperiment
 
 Just an experiment to see how a static array stack works.
 
