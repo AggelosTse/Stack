@@ -1,12 +1,20 @@
-# stack-implementation
+# Static Array Stack Implementation (C++)
 
-Just an experiment to see how a static array stack works.
+An experimental project exploring the mechanics of a **Stack** data structure using a static array in C++. This implementation focuses on memory efficiency and the "Last-In, First-Out" (LIFO) principle.
 
-# Features
 
-You can add and remove data from the stack.
+---
 
-# Compile and Execute
+## Features
+
+* **Push Operation:** Add data to the top of the stack.
+* **Pop Operation:** Remove the most recently added data.
+* **Static Memory:** Uses a fixed-size array for predictable memory allocation.
+* **Overflow/Underflow Protection:** Includes checks to prevent errors when the stack is full or empty.
+
+---
+
+## Installation & Setup
 
 1)Clone the repository with this command: 'git clone https://github.com/AggelosTse/stack-implementation.git'
 
